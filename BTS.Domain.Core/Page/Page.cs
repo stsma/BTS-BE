@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BTS.Core.Interfaces
+namespace BTS.Domain.Core.Page
 {
-    public interface IRepository
+    public class Page
     {
     }
 }

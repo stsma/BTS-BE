@@ -16,7 +16,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\BTS.Core\BTS.Core.csproj" />
+	  <ProjectReference Include="..\BTS.Domain.Core\BTS.Domain.Core.csproj" />
+	  <ProjectReference Include="..\BTS.Infrastructure\BTS.Infrastructure.csproj" />
 	</ItemGroup>
 
 </Project>
