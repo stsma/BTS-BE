@@ -9,7 +9,7 @@ namespace BTS_BE.Controllers
     {
         [AllowAnonymous]
         [HttpPost]
-        public IActionResult Login()
+        public async Task<IActionResult> Login()
         {
             return Ok();
         }
